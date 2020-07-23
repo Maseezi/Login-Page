@@ -25,11 +25,11 @@ input[type=text]:focus, input[type=password]:focus {
 
 input[type=date]{
 	display: inline-block;
-	width: 30%;
+	width: 35%;
 	border-radius: 0px 0px 3px 3px;
 	text-align: center;
 	height: 40px;
-	background-color: #f1f1f1;
+	background-color: #ddd;
 	margin-bottom: 15px;
 }
 
